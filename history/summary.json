@@ -1,7 +1,7 @@
 [
   {
     "name": "Kare Web App",
-    "url": "https://app.doyoukare.com/",
+    "url": "https://app.doyoukare.com",
     "icon": "https://favicons.githubusercontent.com/app.doyoukare.com",
     "slug": "kare-web-app",
     "status": "up",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 497,
-    "timeDay": 497,
-    "timeWeek": 497,
-    "timeMonth": 497,
-    "timeYear": 497,
+    "time": 346,
+    "timeDay": 346,
+    "timeWeek": 346,
+    "timeMonth": 346,
+    "timeYear": 346,
     "dailyMinutesDown": {}
   }
 ]
