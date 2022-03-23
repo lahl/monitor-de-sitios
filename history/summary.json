@@ -4,19 +4,19 @@
     "url": "https://app.doyoukare.com",
     "icon": "https://favicons.githubusercontent.com/app.doyoukare.com",
     "slug": "kare-web-app",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 346,
-    "timeDay": 109,
-    "timeWeek": 199,
+    "timeDay": 241,
+    "timeWeek": 216,
     "timeMonth": 346,
     "timeYear": 346,
     "dailyMinutesDown": {
-      "2022-03-23": 0,
+      "2022-03-23": 12,
       "2022-03-07": 20
     }
   }
