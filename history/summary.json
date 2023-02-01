@@ -4,7 +4,7 @@
     "url": "https://app.doyoukare.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.doyoukare.com.ico",
     "slug": "kare-web-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 286,
     "timeYear": 371,
     "dailyMinutesDown": {
+      "2023-02-01": 0,
       "2023-01-11": 34,
       "2023-01-04": 18,
       "2022-12-20": 17,
