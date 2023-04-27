@@ -6,17 +6,16 @@
     "slug": "kare-web-app",
     "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 413,
     "timeDay": 283,
-    "timeWeek": 238,
+    "timeWeek": 237,
     "timeMonth": 228,
     "timeYear": 395,
     "dailyMinutesDown": {
-      "2023-04-26": 5,
       "2023-03-01": 319,
       "2023-02-15": 16,
       "2023-02-13": 29,
@@ -41,8 +40,7 @@
       "2022-05-18": 28,
       "2022-05-15": 37,
       "2022-05-12": 21,
-      "2022-04-28": 21,
-      "2022-04-27": 48
+      "2022-04-28": 21
     }
   }
 ]
