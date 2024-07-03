@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.doyoukare.com.ico",
     "slug": "kare-web-app",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 215,
-    "timeDay": 167,
-    "timeWeek": 210,
-    "timeMonth": 189,
-    "timeYear": 188,
+    "timeDay": 173,
+    "timeWeek": 174,
+    "timeMonth": 192,
+    "timeYear": 189,
     "dailyMinutesDown": {}
   }
 ]
