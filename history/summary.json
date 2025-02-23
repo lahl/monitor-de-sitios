@@ -4,18 +4,19 @@
     "url": "https://app.doyoukare.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.doyoukare.com.ico",
     "slug": "kare-web-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 193,
-    "timeDay": 142,
-    "timeWeek": 212,
-    "timeMonth": 209,
+    "timeDay": 137,
+    "timeWeek": 218,
+    "timeMonth": 207,
     "timeYear": 195,
     "dailyMinutesDown": {
+      "2025-02-23": 0,
       "2024-07-18": 20
     }
   }
